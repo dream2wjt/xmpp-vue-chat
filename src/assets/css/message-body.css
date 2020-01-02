@@ -1,0 +1,122 @@
+.uih-chat-msg-body {
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: auto;
+  box-sizing: border-box;
+  padding: 7px 24px;
+  width: 100%;
+  height: 100%;
+/*border-bottom: 1px solid #ddd;*/
+}
+.uih-time-hint{
+  height:30px;
+  font-size: 12px;
+  text-align: center;
+  color:#FFFFFF;
+}
+.uih-time-hint span{
+  padding: 2px 5px;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+}
+
+.vux-loadmore{
+  width: 100%;
+  margin: 0;
+}
+.vux-loadmore:before, .vux-loadmore:after {
+  display: none;
+}
+
+.vux-loadmore > span {
+  top: 0;
+  width: 100%;
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  color: #999999;
+  line-height: 26px;
+  text-align: center;
+}
+
+
+.uih-chat-msg {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.uih-chat-msg .uih-chat-user > img {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+}
+
+
+.uih-chat-user {
+  text-align: left;
+}
+.uih-chat-user .uih-chat-text {
+  margin-left: 50px;
+}
+.uih-chat-user .content {
+  background-color: #0d47a1;
+  color: #ffffff;
+  max-width: 340px;
+  margin-top: 5px;
+}
+.uih-chat-user .f_hui_s {
+  margin-top: 15px;
+}
+.uih-chat-user .uih-chat-user {
+  float: left;
+  position: relative;
+  top: -3px;
+  left: 0;
+  width: 45px;
+}
+
+
+.uih-chat-mine {
+  text-align: right;
+}
+.uih-chat-mine .uih-chat-user {
+  float: right;
+  position: relative;
+  top: -3px;
+  width: 45px;
+}
+.uih-chat-mine .uih-chat-text {
+  margin-right: 50px;
+}
+.uih-chat-mine .f_hui_s {
+  margin-top: 15px;
+}
+.uih-chat-mine .content {
+  border: 1px solid #d0d4d9;
+  background-color: #ffffff;
+  max-width: 338px;
+  margin-top: 5px;
+}
+
+
+.uih-chat-msg-content {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 14px;
+  position: relative;
+  line-height: 22px;
+  text-align: left;
+  padding: 5px 10px;
+  border-radius: 5px;
+  word-break: break-all;
+}
+.uih-chat-msg-content img {
+  max-height: 200px;
+  max-width: 200px;
+  border-radius: 5px;
+}
+.file-description{
+  width: 100%;
+  height: 100%;
+  text-decoration: underline;
+}

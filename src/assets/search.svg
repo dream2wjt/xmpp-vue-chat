@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/sousuo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/sousuo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="20" height="20"></rect>
+            <g id="Group-25" transform="translate(3.000000, 3.000000)" fill="#303A60">
+                <path d="M5.5,11 C2.46243388,11 0,8.53756612 0,5.5 C0,2.46243388 2.46243388,0 5.5,0 C8.53756612,0 11,2.46243388 11,5.5 C11,8.53756612 8.53756612,11 5.5,11 Z M5.5,9 C7.43299662,9 9,7.43299662 9,5.5 C9,3.56700338 7.43299662,2 5.5,2 C3.56700338,2 2,3.56700338 2,5.5 C2,7.43299662 3.56700338,9 5.5,9 Z" id="Oval"></path>
+                <path d="M13.5606602,12.8535534 L12.8535534,13.5606602 C12.6582912,13.7559223 12.3417088,13.7559223 12.1464466,13.5606602 L7.58578644,9 L9,7.58578644 L13.5606602,12.1464466 C13.7559223,12.3417088 13.7559223,12.6582912 13.5606602,12.8535534 Z" id="Line-5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

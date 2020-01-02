@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/fasong</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/fasong" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <g>
+                <g>
+                    <rect id="Rectangle-13" fill="#2B33AE" x="0" y="0" width="24" height="24" rx="12"></rect>
+                    <path d="M12.9,9.17279221 L12.9,17.52 C12.9,17.7850967 12.6850967,18 12.42,18 L11.58,18 C11.3149033,18 11.1,17.7850967 11.1,17.52 L11.1,9.17279221 L7.98994949,12.2828427 C7.79468735,12.4781049 7.47810486,12.4781049 7.28284271,12.2828427 L6.71715729,11.7171573 C6.52189514,11.5218951 6.52189514,11.2053127 6.71715729,11.0100505 L11.6464466,6.08076118 C11.8417088,5.88549904 12.1582912,5.88549904 12.3535534,6.08076118 L17.2828427,11.0100505 C17.4781049,11.2053127 17.4781049,11.5218951 17.2828427,11.7171573 L16.7171573,12.2828427 C16.5218951,12.4781049 16.2053127,12.4781049 16.0100505,12.2828427 L12.9,9.17279221 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

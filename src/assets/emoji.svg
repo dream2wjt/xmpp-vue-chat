@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/biaoqingbao</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/biaoqingbao" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#303A60" stroke-width="2" fill-rule="nonzero" cx="10" cy="10" r="9"></circle>
+        <circle id="Oval" fill="#303A60" fill-rule="nonzero" cx="6.5" cy="7.5" r="1.5"></circle>
+        <circle id="Oval-Copy" fill="#303A60" fill-rule="nonzero" cx="13.5" cy="7.5" r="1.5"></circle>
+        <path d="M4.60118836,12.4474327 C4.36494678,11.9534542 4.55645842,11.3527811 5.02894159,11.1057919 C5.50142477,10.8588026 6.0759597,11.059027 6.31220128,11.5530055 C7.10825243,13.2175395 8.29356986,14.0002191 10,14.0002191 C11.7064301,14.0002191 12.8917476,13.2175395 13.6877987,11.5530055 C13.9240403,11.059027 14.4985752,10.8588026 14.9710584,11.1057919 C15.4435416,11.3527811 15.6350532,11.9534542 15.3988116,12.4474327 C14.2818922,14.7828987 12.4383395,16.0002191 10,16.0002191 C7.56166051,16.0002191 5.71810781,14.7828987 4.60118836,12.4474327 Z" id="Path-2" fill="#303A60" fill-rule="nonzero"></path>
+    </g>
+</svg>
